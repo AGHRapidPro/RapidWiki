@@ -57,8 +57,10 @@ Każdy z podanych adresów jest podstawowym mechanizmem komunikacji z drukarkami
 3. Kliknij przycisk `Send to printer` i ustaw odpowiednią scieżkę, na której chesz zapisać plik. Ścieżka jest zapamiętywana między sesjami. Następnie kliknij odpowiedni przycisk przesyłania *and you're done*!
   > [!WARNING]
   > Przed zdalnym puszeczeniem druku sprawdź, co jest na drukarce; niewyczyszczony stół czy zły gatunek filamentu... no tak nie robimy
+
   > [!IMPORTANT]
   > Przypominam o wrzucaniu plików do swoich folderów
+
   > [!TIP]
   > Nie musisz drukować od razu - samo przesłanie pliku przenosi .gcode na drukarkę, więc jeżeli np. musisz przygotować hurtowo kilka modeli lub ktoś w labie może ci wydruk puścić jak skończy robić swoje rzeczy (albo po prostu nie chce ci się wstawać od biurka), możesz wrzucić swoje modele do druku z dowolnego miejsca oraz w trakcie drukowania.
 
