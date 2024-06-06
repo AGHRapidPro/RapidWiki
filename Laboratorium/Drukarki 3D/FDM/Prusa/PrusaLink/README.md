@@ -70,7 +70,7 @@ Serwer PrusaLink udostępnia panel zarządzania drukarką. Jest on dość podsta
 Login zawsze `maker`, hasło z [listy haseł](passes.md)
 
 > [!CAUTION]
-> Lojalnie uprzedzam, że każde połączenie z drukarką jest rejestrowane w zewnętrznym systemie, a każde każdemu urządzeniu w sieci można selektywnie zabronić dostępu do dowolnego innego urządzenia (lub urządzeń). Oczywiście nikt nie będzie maniakalnie przeglądał kto co kiedy robił, natomiast usuwanie cudzych plików czy wywalanie ludzom wydruków czy trolling przyciskiem 'pause' nie będą tolerowane. Pracujemy na wspólnym sprzęcie, więc szanujmy się nawzajem. TL;DR:
+> Lojalnie uprzedzam, że każde połączenie z drukarką jest rejestrowane w zewnętrznym systemie, a każdemu urządzeniu w sieci można selektywnie zabronić dostępu do dowolnego innego urządzenia (lub urządzeń). Oczywiście nikt nie będzie maniakalnie przeglądał kto co kiedy robił, natomiast usuwanie cudzych plików czy wywalanie ludzom wydruków czy trolling przyciskiem 'pause' nie będą tolerowane. Pracujemy na wspólnym sprzęcie, więc szanujmy się nawzajem. TL;DR:
 > - Nie bądź głupi
 > - NIE bądź głupi
 > - Pamiętaj, że szpule plastiku nie rosną na drzewach
