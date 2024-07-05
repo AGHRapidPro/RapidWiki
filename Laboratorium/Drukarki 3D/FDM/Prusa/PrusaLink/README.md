@@ -13,6 +13,8 @@ Każde urządzenie podłączone do sieci wewnętrznej ma przypisany statyczny re
 - Prawy Miniacz: [minir.rapid.internal](http://minir.rapid.internal)
 - Susa: [mk4sus.rapid.internal](http://mk4sus.rapid.internal)
 - MK4 Enclosure: [mk4e.rapid.internal](http://mk4e.rapid.internal)
+- MK4 Lewa: `[NIEZŁOŻONA]`
+- MK4 Prawa: [mk4r.rapid.internal](http://mk4r.rapid.internal)
 
 Każdy z podanych adresów jest podstawowym mechanizmem komunikacji z drukarkami - adresy IP **nie powinny** być używane do konfiguracji **czegokolwiek** w sieci, ze wzglądu na ich zmienność. Adresy z naszego DNSa są stałe, natomiast zawsze powinny prowadzić do aktualnego adresu IP danego urządzenia.
 
